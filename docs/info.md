@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a example that I changed colors and the speed of the movement.
+This is an example that I changed colors and the speed of the movement.
 
 ## How to test
 
