@@ -3,7 +3,7 @@ project:
   title:        "Colores"      # Project title
   author:       "ErickEG"      # Your name
   discord:      "Gilthunder#1515"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Change colors and speed of a example"      # One line description of what your project does
+  description:  "Change colors and speed of an example"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
