@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_ErickEG_Project Project (
+  tt_um_ErickEG_Project (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
